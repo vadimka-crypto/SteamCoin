@@ -10,7 +10,7 @@ VERSION="2.0.0"
 ORG_NAME="xSteamCoin"
 ORG_TWITTER="@xSteamCoin"
 ORG_LOGO="https://i.ibb.co/S0MgTzS/coin-single.png"
-ORG_OFFICIAL_EMAIL="XLMn@tutanota.com"
+ORG_OFFICIAL_EMAIL="xSteamCoin@tutanota.com"
 
 
 [[CURRENCIES]]
